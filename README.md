@@ -2,7 +2,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-                   <title>ipa-install Store - متجر ايبا انستال</title>
+                   <title> Kali Store </title>
 
                           <!-- Bootstrap -->
                 <link href="https://ipa-install.cf/test5/css/bootstrap.min.css" rel="stylesheet">
@@ -18,10 +18,10 @@
   <style id='page-skin-1' type='text/css'><!--
 /*----------------------------------------------------*\
 *                                                    *
-* Name   : ipainstall |  template 2018           *
-* Editor > https://twitter.com/ipainstall               *
-* Author : ipainstall          		       *
-* Website  : https://ipa-install.cf/  		    *
+* Name   : Rami Almshari |  template 2018           *
+* Editor > https://twitter.com/tka5111               *
+* Author : KaliStore          		       *
+* Website  : https://romeo511.github.io/apps/    *
 *                                                    *
 \*----------------------------------------------------*/
 @font-face {
@@ -115,7 +115,7 @@ blockquote:before {
                             <li><a href="#" style="color: #fff;"><i class="fa fa-link fa-1x"></i> الجلبريك وادواته :) </a></li>
                             
                             
-                            <li><a href="https://twitter.com/ipainstall" style="color: #fff;"><i class="fa fa-link fa-1x"></i> طلب شراء نسخة من السكربت</a></li>
+                            <li><a href="https://twitter.com/ipainstall" style="color: #fff;"><i class="fa fa-link fa-1x"></i>K</a></li>
                          </ul>
                     </div><!-- /.navbar-collapse -->
                   </div><!-- /.container-fluid -->
