@@ -4,39 +4,6 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
                    <title> Kali Store </title>
 
-        
-<style type="text/css">
-  <!-- /*
-  <style id='page-skin-1' type='text/css'><!--
-/*----------------------------------------------------*\
-*                                                    *
-* Name   : Rami Almshari |  template 2018           *
-* Editor > https://twitter.com/tka5111               *
-* Author : KaliStore          		       *
-* Website  : https://romeo511.github.io/apps/    *
-*                                                    *
-\*----------------------------------------------------*/
-@font-face {
-font-family: 'Droid Arabic Naskh';
-font-style: normal;
-font-weight: 400;
-src: url(//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Regular.eot);
-src: url(//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Regular.eot?#iefix) format('embedded-opentype'),
-url(//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Regular.woff2) format('woff2'),
-url(//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Regular.woff) format('woff'),
-url(//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Regular.ttf) format('truetype');
-}
-@font-face {
-font-family: 'Droid Arabic Naskh';
-font-style: normal;
-font-weight: 700;
-src: url(//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Bold.eot);
-src: url(//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Bold.eot?#iefix) format('embedded-opentype'),
-url(//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Bold.woff2) format('woff2'),
-url(//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Bold.woff) format('woff'),
-url(//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Bold.ttf) format('truetype');
-}
-
 
 <div style="text-align:center;">
 
@@ -452,52 +419,8 @@ url(//fonts.gstatic.com/ea/droidarabicnaskh/v7/DroidNaskh-Bold.ttf) format('true
 								</div>
 								<!-- app4 -->
 								
-								
-								
-</div>	
-<center>
-    <div id="jubna4246"><script type="text/javascript" data-cfasyn="false" src="https://jubna.com/ar/api/widget/4246?id=7d6b06d5-1d8f9b1f-be7d543e-fd1598e1&amp;d=YWJvdWRjcm0uY29t&amp;cb=1515181522543" async=""></script><script type="text/javascript" data-cfasyn="false" src="https://jubna.com/ar/api/widget/4246?id=7d6b06d5-1d8f9b1f-be7d543e-fd1598e1&amp;d=YWJvdWRjcm0uY29t&amp;cb=1515351402778" async=""></script><script type="text/javascript" data-cfasyn="false" src="https://jubna.com/ar/api/widget/4246?id=7d6b06d5-1d8f9b1f-be7d543e-fd1598e1&amp;d=YWJvdWRjcm0uY29t&amp;cb=1515356914704" async=""></script><script type="text/javascript" data-cfasyn="false" src="https://jubna.com/ar/api/widget/4246?id=7d6b06d5-1d8f9b1f-be7d543e-fd1598e1&amp;d=YWJvdWRjcm0uY29t&amp;cb=1515404192807" async=""></script></div>
-<script type="text/javascript">
-(function() {
-var params =
-{
-id: "7d6b06d5-1d8f9b1f-be7d543e-fd1598e1",
-d: "YWJvdWRjcm0uY29t",
-cb: ((new Date()).valueOf().toString())
-}; 
-var qs="";
-for(var key in params){qs+=key+"="+params[key]+"&"}
-qs=qs.substring(0,qs.length-1);
-var s = document.createElement("script");
-s.type= "text/javascript";
-s.setAttribute("data-cfasyn", "false");
-s.src = "https://jubna.com/ar/api/widget/4246?" + qs;
-s.async = true;
-document.getElementById("jubna4246").appendChild(s);
-})();
-</script>
 
 
-    <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Responsive Links -->
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6992404530533749" data-ad-slot="7593746438" data-ad-format="link"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- mobile banner -->
-<ins class="adsbygoogle" style="display:inline-block;width:300px;height:100px" data-ad-client="ca-pub-6992404530533749" data-ad-slot="4089307234"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-6992404530533749",
-    enable_page_level_ads: true
-  });
-</script>
-</center>
 
 <!--  البار السفلي   -->
 
@@ -532,17 +455,6 @@ document.getElementById("jubna4246").appendChild(s);
   </footer>
   <!--  البار السفلي   -->
   
-<br>
-
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->	
-<script src="https://ipa-install.cf/test5/js/jquery-2.1.1.min.js"></script>	
-<script src="https://ipa-install.cf/test5/js/bootstrap.min.js"></script>
-<script src="https://ipa-install.cf/test5/js/wow.min.js"></script>
-<script src="https://ipa-install.cf/test5/js/jquery.easing.1.3.js"></script>
-<script type="text/javascript" src="https://ipa-install.cf/js/javascript.js"></script>   
-<script src="https://ipa-install.cf/test5/js/jquery.bxslider.min.js"></script>
-<script src="https://ipa-install.cf/test5/js/functions.js"></script>
-
 
 
 </body></html>
